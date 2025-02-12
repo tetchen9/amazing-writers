@@ -1,0 +1,94 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Lesya Ukrainka",
+      "genre": "Poetry",
+      "country": "Kyiv",
+      "totalSales": 5000000,
+      "currency": "UAH",
+      "employment": "poet",
+      "book": "The Forest Song"
+    },
+    {
+      "id": 2,
+      "name": "Ivan Franko",
+      "genre": "Novel",
+      "country": "Lviv",
+      "totalSales": 15000000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "Zakhar Berkut"
+    },
+    {
+      "id": 3,
+      "name": "Taras Shevchenko",
+      "genre": "Poetry",
+      "country": "Kaniv",
+      "totalSales": 30000000,
+      "currency": "UAH",
+      "employment": "poet",
+      "book": "Kobzar"
+    },
+    {
+      "id": 4,
+      "name": "Olha Kobylianska",
+      "genre": "Novel",
+      "country": "Chernivtsi",
+      "totalSales": 3500000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "Earth"
+    },
+    {
+      "id": 5,
+      "name": "Mykhailo Kotsiubynsky",
+      "genre": "Short Story",
+      "country": "Vinnytsia",
+      "totalSales": 8000000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "Shadows of Forgotten Ancestors"
+    },
+    {
+      "id": 6,
+      "name": "Marko Vovchok",
+      "genre": "Novel",
+      "country": "Chernihiv",
+      "totalSales": 6000000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "Marusia"
+    },
+    {
+      "id": 7,
+      "name": "Panteleimon Kulish",
+      "genre": "Historical Fiction",
+      "country": "Kyiv",
+      "totalSales": 7000000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "Black Council"
+    },
+    {
+      "id": 8,
+      "name": "Hryhorii Skovoroda",
+      "genre": "Philosophy & Poetry",
+      "country": "Poltava",
+      "totalSales": 4000000,
+      "currency": "UAH",
+      "employment": "poet",
+      "book": "The Garden of Divine Songs"
+    },
+    {
+      "id": 9,
+      "name": "Vasyl Stefanyk",
+      "genre": "Short Story",
+      "country": "Pokuttia",
+      "totalSales": 5500000,
+      "currency": "UAH",
+      "employment": "prosewriter",
+      "book": "The Stone Cross"
+    }
+  ]
+}
