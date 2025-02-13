@@ -5,6 +5,9 @@ This project implements a table with a Search and Filtering features.
 Query management
 API calls are managed by React Query. React Query makes it easier to manage asynchronous operations, handle loading and error states, it improves the performance, caches data. A useQuery custom hook fetches a list of people based on the provided name and employment. The QueryClient is configured to handle the error response. API calls are made by axios library.
 
+<img width="1101" alt="image" src="https://github.com/user-attachments/assets/2a242063-9cea-4fc5-8ba1-51ada96c0917" />
+
+
 React Context API is used for sharing data between multiple components. PeopleContextProvider provides context for managing people data, search and filter parameters. A custom hook usePeopleContext is used in People Table, Search Panel and the People Page to access the PeopleContext.
 
 PeopleTable gets an array of people and the state of the API response (the state can be isLoading, isSuccess and isError) and displays the table accordingly to the status. While the data is being loaded, a loading icon is displayed.
